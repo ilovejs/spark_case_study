@@ -1,4 +1,4 @@
-# spark_case_study
+# Spark case studies
 
 some tutorial code to show case the usefullness in spark
 
